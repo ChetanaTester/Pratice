@@ -128,7 +128,7 @@ public class TripPlanPages extends TestBase {
 					.getText();
 			System.out.println("The opal fare: " + opal);
 			System.out
-					.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+					.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
 		}
 		}
 	}
